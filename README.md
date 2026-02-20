@@ -1,10 +1,9 @@
 <div align="center">
 
-# 🌀 Portal Craft 🌀
+![PortalCraft](https://github.com/bendy1baldy2/Portal-Craft-NeoForge-1.21.1/blob/main/portal_craft_minecraft_title.png?raw=true)
 **The Ultimate Aperture Science Integration for Minecraft 1.21.1**
 
 [![Loader](https://neoforged.net/img/content/branding/banner.png)](https://neoforged.net/)
-[![PortalCraft](https://neoforged.net/img/content/branding/banner.png)](https://neoforged.net/)
 
 ---
 
@@ -16,7 +15,7 @@
 ---
 
 ## 🚀 Overview
-**Portal Craft** is a comprehensive overhaul mod for Minecraft 1.21.1 built on **NeoForge**. It meticulously recreates the mechanics, aesthetics, and atmosphere of Valve's *Portal* series. This isn't just a teleportation mod; it's a complete toolkit for building complex, physics-based test chambers.
+**Portal Craft** is a comprehensive overhaul mod for Minecraft 1.21-1.21.1 built on **NeoForge**. It meticulously recreates the mechanics, aesthetics, and atmosphere of Valve's *Portal* series. This isn't just a teleportation mod; it's a complete toolkit for building complex, physics-based test chambers.
 
 ## ✨ Features
 
@@ -48,7 +47,7 @@
 *   **Mod Loader:** [NeoForge](https://neoforged.net/) (Latest Recommended)
 
 ### Setup Steps
-1.  Ensure you have a NeoForge profile set up in your [Minecraft Launcher](https://www.minecraft.net).
+1.  Ensure you have a NeoForge profile set up in your [Minecraft Launcher](https://www.minecraft.net/en-us/download).
 2.  Download the **Portal Craft** `.jar` from the [Releases](https://github.com) tab.
 3.  Navigate to your `.minecraft/mods` folder.
 4.  Drop the file in and restart your game.
@@ -60,7 +59,7 @@ Want to contribute to the science? We use the official [NeoForge MDK](https://gi
 
 ```bash
 # Clone the repo
-git clone https://github.com
+git clone https://github.com/bendy1baldy2/Portal-Craft-NeoForge-1.21.1.git
 
 # Setup the workspace
 ./gradlew genSources
