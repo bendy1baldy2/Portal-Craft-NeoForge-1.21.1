@@ -1,25 +1,69 @@
+<div align="center">
 
-Installation information
-=======
+# 🌀 Portal Craft 🌀
+**The Ultimate Aperture Science Integration for Minecraft 1.21.1**
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+[![Loader](https://neoforged.net/img/content/branding/banner.png)](https://neoforged.net/)
+[![PortalCraft](https://neoforged.net/img/content/branding/banner.png)](https://neoforged.net/)
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+---
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+"Science isn't about *why* - it's about *why not*."
+*Bring the full Portal and Portal 2 experience to your world.*
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+</div>
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+---
+
+## 🚀 Overview
+**Portal Craft** is a comprehensive overhaul mod for Minecraft 1.21.1 built on **NeoForge**. It meticulously recreates the mechanics, aesthetics, and atmosphere of Valve's *Portal* series. This isn't just a teleportation mod; it's a complete toolkit for building complex, physics-based test chambers.
+
+## ✨ Features
+
+### 🔫 The Portal Device (ASHPD)
+*   **Momentum Conservation:** Fly through portals at high speeds just like the original games.
+*   **Dual-Link System:** Seamlessly transition between blue and orange portals with zero lag.
+*   **Entity Support:** Portals work for players, mobs, dropped items, and even moving blocks.
+
+### 📦 Testing Elements
+
+| Element | Function |
+| :--- | :--- |
+| **Weighted Cubes** | Classic storage cubes and Companion Cubes for button activation. |
+| **Thermal Beams** | Deadly lasers that can be redirected using specialized prisms. |
+| **Aerial Faith Plates** | Catapult yourself (or objects) across massive gaps. |
+| **Excursion Funnels** | Tractor beams for vertical and horizontal transport. |
+
+### 🧪 Aperture Gels
+*   **Repulsion Gel (Blue):** Jump higher and bounce off surfaces.
+*   **Propulsion Gel (Orange):** Increase movement speed drastically across painted floors.
+*   **Conversion Gel (White):** Turn any surface into a portal-conductive wall.
+
+---
+
+## 🛠 Installation
+
+### Requirements
+*   **Minecraft:** 1.21.1
+*   **Mod Loader:** [NeoForge](https://neoforged.net/) (Latest Recommended)
+
+### Setup Steps
+1.  Ensure you have a NeoForge profile set up in your [Minecraft Launcher](https://www.minecraft.net).
+2.  Download the **Portal Craft** `.jar` from the [Releases](https://github.com) tab.
+3.  Navigate to your `.minecraft/mods` folder.
+4.  Drop the file in and restart your game.
+
+---
+
+## 🏗 Developer Guide
+Want to contribute to the science? We use the official [NeoForge MDK](https://github.com/NeoForged/NeoForge).
+
+```bash
+# Clone the repo
+git clone https://github.com
+
+# Setup the workspace
+./gradlew genSources
+
+# Build the mod
+./gradlew build
