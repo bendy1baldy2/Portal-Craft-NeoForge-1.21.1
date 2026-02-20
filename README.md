@@ -4,7 +4,7 @@
 **The Ultimate Aperture Science Integration for Minecraft 1.21.1**
 
 [![Loader](https://neoforged.net/img/content/branding/banner.png)](https://neoforged.net/)
-[![PortalCraft](https://neoforged.net/img/content/branding/banner.png)](https://neoforged.net/)
+![PortalCraft](https://github.com/bendy1baldy2/Portal-Craft-NeoForge-1.21.1/blob/main/portal_craft_minecraft_title.png?raw=true)
 
 ---
 
