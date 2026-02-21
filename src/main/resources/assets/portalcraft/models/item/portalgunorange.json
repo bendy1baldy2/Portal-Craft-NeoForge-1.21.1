@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "portalcraft:item/portalgunorange"
+    "layer0": "portalcraft:items/portalgunorange"
   }
 }

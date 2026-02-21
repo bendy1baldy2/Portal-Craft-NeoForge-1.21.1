@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##D",
+        "#ED",
+        "#DD"
+    ],
+    "key": {
+        "#": "minecraft:redstone",
+        "D": "minecraft:diamond",
+        "E": "minecraft:ender_pearl"
+    },
+    "result": {
+        "id": "portalcraft:blackhole",
+        "count": 1
+    }
+}

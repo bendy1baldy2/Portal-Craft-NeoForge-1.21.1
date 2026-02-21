@@ -13,6 +13,8 @@ public class PortalGunItem {
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> PORTALGUNORANGE = ITEMS.register("portalgunorange",
             () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> BLACKHOLE = ITEMS.register("blackhole",
+            () -> new Item(new Item.Properties()));
 
 
 
